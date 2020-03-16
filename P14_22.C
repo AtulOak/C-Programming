@@ -1,3 +1,4 @@
+// This program is developed by Prof. Atul Oak
 #include<stdio.h>
 #include<conio.h>
 
