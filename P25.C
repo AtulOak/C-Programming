@@ -1,3 +1,6 @@
+
+// Program developed by Prof. Atul Oak
+
 #include<stdio.h>
 #include<conio.h>	// header files
 
