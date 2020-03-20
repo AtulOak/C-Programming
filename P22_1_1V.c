@@ -1,3 +1,4 @@
+// This program is developed by Prof. Atul Oak
 #include<stdio.h>
 #include<conio.h>	// header files
 
@@ -20,7 +21,7 @@ int main( )
 	case 'e':
 	case 'U':
     case 'u': printf("\n\n\t >> Vowel character ");break;
-    default:  if((((int)c>=65)&&((int)c<=90))  ||  (((int)c>=97)&&((int)c<=122)))
+    default:  if((((int)c>=65)&&((int)c<=90))  ||  (((int)c>=97)&&((int)c<=122)))	// Check for Consonant 
 			  printf("\n\n\t Consonant Character");
 			  else
 			  printf("\n\n\t not an alphabet ");
